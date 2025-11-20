@@ -1,0 +1,5 @@
+.env
+*.txt
+!newfile.txt
+node_modules/
+temp/
